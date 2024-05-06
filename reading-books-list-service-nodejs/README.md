@@ -52,3 +52,6 @@ Run the service
 ```bash
 npm install && node index.mjs
 ```
+## Execute the Sample in Choreo
+Navigate to Choreo -> Component -> Test
+
