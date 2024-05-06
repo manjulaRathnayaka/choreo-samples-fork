@@ -119,6 +119,14 @@ paths:
       responses:
         "200":
           description: Healthy response
+  /readiness:
+    summary: Readiness endpoint
+    get:
+      summary: Readiness
+      operationId: Readiness
+      responses:
+        "200":
+          description: Ready response
 
 components:
   schemas:
